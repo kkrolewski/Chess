@@ -1,0 +1,22 @@
+﻿  Game.cpp
+C:\Users\Krzysiek\source\repos\9077468c-gr31-repo\Projekt\Chess\Chess\Game.cpp(110,41): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Krzysiek\source\repos\9077468c-gr31-repo\Projekt\Chess\Chess\Game.cpp(110,34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  Generating Code...
+  Chess.vcxproj -> C:\Users\Krzysiek\source\repos\9077468c-gr31-repo\Projekt\Chess\Debug\Chess.exe
